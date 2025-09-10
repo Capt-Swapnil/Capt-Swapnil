@@ -1,16 +1,11 @@
-## Hi there 👋
+### Hi there, I'm Swapnil! 👋
+I'm a sophomore at VIT Chennai, majoring in Computer Science with a passion for the world of data, AI, and machine learning.
+🌨️ Currently learning about Data Analytics, Feature Engineering, and core AI/ML concepts.
 
-<!--
-**Capt-Swapnil/Capt-Swapnil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Toolbox 🧰<br/>
+🌐Languages:  Python, SQL, R<br/>
+📚Libraries:  Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch<br/>
+📅Databases:  PostgreSQL, MySQL<br/>
+🔨Tools:  Jupyter Notebook !<br/>
+<!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Capt-Swapnil&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
